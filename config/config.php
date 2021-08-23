@@ -1,11 +1,11 @@
 <?php
 
-define('URL', 'http://localhost:8080/expense-app/');
+define('URL', 'http://localhost/expense-app/');
 
 define('HOST', 'localhost');
-define('DB', 'expenseapp');
+define('DB', 'expense-app');
 define('USER', 'root');
-define('PASSWORD', "root");
+define('PASSWORD', "");
 define('CHARSET', 'utf8mb4');
 
 ?>
